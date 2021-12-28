@@ -6,7 +6,8 @@ with creating our stop word then have used the following topic modeling techniqu
  +	NMF and Count Vectorization/TF
  +	LDA and Count Vectorization/TF
 
-## Bar plot to show the topics
+### Bar plot to show the topics
+<img width="889" alt="Screen Shot 1443-05-24 at 11 14 51 PM" src="https://user-images.githubusercontent.com/75619142/147603766-41b6b0a8-ccb1-4f76-a5b2-568b96764ed6.png">
 
 ## World Cloud after clean to show the most common word
 
