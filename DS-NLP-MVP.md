@@ -14,7 +14,7 @@ with creating our stop word then have used the following topic modeling techniqu
 
    <p align="center"> <img width="489" alt="Screen Shot 1443-05-24 at 11 32 03 PM" src="https://user-images.githubusercontent.com/75619142/147604942-03afe6e7-2154-4972-97be-42ea74a933cd.png"></p>
    
-## Data with Labels and Topics assig:
+## Data with Labels and Topics assign:
 
    <p align="center"> <img width="489" alt="Picte1" src="https://user-images.githubusercontent.com/75619142/147605098-9412c73a-c9a7-466a-835f-433b70be851a.png"></p>
 
