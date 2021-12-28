@@ -23,5 +23,5 @@ As we can see the most written comment reviews were about Data Science (DS) then
 ## Team members:
 
  + Mukhtar Al bin hamad
- + Mohammed Alzubydi
+ + Mohammed Alzabyedi
  + Bushra AlOlyit
