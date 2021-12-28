@@ -1,5 +1,5 @@
 # NLP on Amazon comment reviews
-The goal of this project is to use topic modeling on amazon reviews and select the most written topics in the comment reviews, also delete columns that contain numeric or URL link and have only one text column for applying Unsupervised learning. We cleaned text and preprocessing steps starting 
+The goal of this project is to use topic modeling on amazon comment reviews and select the most written topics in the comment , also delete columns that contain numeric or URL link and have only one text column for applying Unsupervised learning in Natural-language-processing. We cleaned text and preprocessing steps starting 
 with creating our stop word then have used the following topic modeling techniques:
 
  +	LSA and Count Vectorization/TF
